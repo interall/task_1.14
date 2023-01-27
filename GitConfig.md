@@ -1,3 +1,5 @@
+[Назад](/readme.md)
+
 # Git config
 
 Команда настройки параметров для Git на вашем компьютере.
@@ -8,3 +10,5 @@
 git config --global user.name "Your Name"
 git config --global user.email "your_email@whatever.com"
 ```
+
+[def]: /readme.md
